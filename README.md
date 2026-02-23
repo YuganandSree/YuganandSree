@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Yethirajam Yuganand Sree
 
-<!--
-**YuganandSree/YuganandSree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech IT Graduate (CGPA 8.42) with a Minor in Artificial Intelligence & Machine Learning. Passionate about building intelligent systems and solving real-world problems through technology.
 
-Here are some ideas to get you started:
+💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java • Python • HTML • CSS • JavaScript • MySQL
+DBMS • Basic DSA • VS Code • Eclipse
+
+🚀 Projects
+
+Spam Detection using Text Clustering – Unsupervised ML model for spam classification.
+
+TaskMate – Smart To-Do Companion – Responsive web app for task management.
+
+🌱 Currently
+
+Improving my skills in Machine Learning, Deep Learning, and AI-based applications.
