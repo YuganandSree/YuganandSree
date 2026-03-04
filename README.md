@@ -11,7 +11,7 @@ DBMS • Basic DSA • VS Code • Eclipse
 
 Spam Detection using Text Clustering – Unsupervised ML model for spam classification.
 
-TaskMate – Smart To-Do Companion – Responsive web app for task management.
+Drug side Effect Prediction - Built a supervised machine learning model to predict potential drug side effects using healthcare datasets.
 
 🌱 Currently
 
