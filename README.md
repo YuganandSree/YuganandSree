@@ -1,18 +1,57 @@
-👋 Hi, I'm Yethirajam Yuganand Sree
+# 👋 Hi, I'm Yethirajam Yuganand Sree
 
-B.Tech IT Graduate (CGPA 8.42) with a Minor in Artificial Intelligence & Machine Learning. Passionate about building intelligent systems and solving real-world problems through technology.
+🎓 B.Tech IT Graduate (CGPA: 8.42)  
+🤖 Minor in Artificial Intelligence & Machine Learning  
 
-💻 Tech Stack
+---
 
-Java • Python • HTML • CSS • JavaScript • MySQL
-DBMS • Basic DSA • VS Code • Eclipse
+## 🚀 About Me
+I am a beginner software developer with interest in Python, Machine Learning, and Backend Development.  
+I enjoy building small projects and gradually improving my problem-solving skills.
 
-🚀 Projects
+---
 
-Spam Detection using Text Clustering – Unsupervised ML model for spam classification.
+## 🛠️ Skills
+- Python  
+- Java  
+- HTML, CSS, JavaScript  
+- MySQL DBMS  
+- Basic Data Structures & Algorithms  
+- Git & GitHub  
+- VS Code, Eclipse  
 
-Drug side Effect Prediction - Built a supervised machine learning model to predict potential drug side effects using healthcare datasets.
+---
 
-🌱 Currently
+## 📌 Projects
+- 🔹 Spam Detection using Text Clustering  
+  → Built an unsupervised machine learning model for spam classification  
 
-Improving my skills in Machine Learning, Deep Learning, and AI-based applications.
+- 🔹 Drug Side Effect Prediction  
+  → Developed a supervised ML model using healthcare data  
+
+- 🔹 Python Daily Projects  
+  → Collection of beginner-friendly mini projects (games & utilities)  
+
+- 🔹 Web Development Basics  
+  → Built simple web pages using HTML, CSS, and JavaScript  
+
+---
+
+## 📈 Currently Learning
+- Machine Learning  
+- Deep Learning  
+- Backend Development  
+- Data Structures & Algorithms  
+
+---
+
+## 🎯 Goals
+- Improve coding and problem-solving skills  
+- Build real-world projects  
+- Become a Software Engineer  
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/YuganandSree  
+- LinkedIn: https://www.linkedin.com/in/yuganand-sree-0808a3271/
