@@ -12,10 +12,9 @@ I enjoy building small projects and gradually improving my problem-solving skill
 ---
 
 ## 🛠️ Skills
-- Python  
-- Java  
+- Python, Java  
 - HTML, CSS, JavaScript  
-- MySQL DBMS  
+- MySQL, DBMS  
 - Basic Data Structures & Algorithms  
 - Git & GitHub  
 - VS Code, Eclipse  
