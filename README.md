@@ -6,8 +6,7 @@
 ---
 
 ## 🚀 About Me
-I am a beginner software developer with interest in Python, Machine Learning, and Backend Development.  
-I enjoy building small projects and gradually improving my problem-solving skills.
+Python Developer | Building real-world projects | Improving daily with small learnigs and converting them to big learnings.
 
 ---
 
