@@ -46,7 +46,8 @@ Python Developer | Building real-world projects | Improving daily with small lea
 ## 🎯 Goals
 - Improve coding and problem-solving skills  
 - Build real-world projects  
-- Become a Software Engineer  
+- Become a Software Engineer
+- Improving myself in technical aspects every day
 
 ---
 
